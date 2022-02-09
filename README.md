@@ -18,13 +18,13 @@
 
 ## Getting Started
 
-**First open VS code**
-**From the VS code terminal navigate to the folder where you want to download the project**
-**> git clone https://github.com/maen1980/Hello-Microverse.git**
+**First open VS code**<br/>
+**From the VS code terminal navigate to the folder where you want to download the project**<br/>
+```
+$ git clone https://github.com/maen1980/Hello-Microverse.git
+```
 
 
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 VScode
