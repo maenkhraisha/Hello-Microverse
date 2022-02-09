@@ -28,6 +28,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 VScode
 
+### Setup
+Clone the folder into your local VS code
 
 ## Authors
 
@@ -49,12 +51,10 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
-## 📝 Free license
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed. 
 
 
