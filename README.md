@@ -55,6 +55,6 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
+## 📝 Free license
 
-This project is [MIT](./MIT.md) licensed.
+
